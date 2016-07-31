@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/MongoSerialize1/bin/Debug
+/MongoSerialize1/obj/Debug
+/MongoSerialize1/MongoSerialization/obj/Debug
+/MongoSerialize1/MongoSerialization/bin/Debug
